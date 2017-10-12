@@ -1,0 +1,25 @@
+{
+  "name": "stylesheet-url-to-file-loader",
+  "version": "1.0.0",
+  "description": "Loads files referenced in url(...) statements via webpack and replaces the string with the final link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test\"; exit 1;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/wtho/stylesheet-url-to-file-loader"
+  },
+  "keywords": [
+    "angular",
+    "stylesheet",
+    "file",
+    "url",
+    "loader"
+  ],
+  "author": "Thomas Wirth <t@ghci.de>",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
